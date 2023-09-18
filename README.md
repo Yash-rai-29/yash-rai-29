@@ -1,4 +1,4 @@
-[![MasterHead](https://media-public.canva.com/MADGx-AAX44/4/screen_2x.jpg)](https://yash-rai-29.github.io/portfolio/#)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://yash-rai-29.github.io/portfolio/#)
 <h1 align="center">Hi 👋, I'm Yash Rai</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
