@@ -1,3 +1,11 @@
+[![MasterHead](https://media-public.canva.com/MADGx-AAX44/4/screen_2x.jpg)](https://yash-rai-29.github.io/portfolio/#)
+<h1 align="center">Hi 👋, I'm Yash Rai</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me:
 👋 Hey there! I'm Yash Rai, a passionate and aspiring Computer Science and Engineering (CSE) B.Tech student at SR Group of Institutions, Jhansi. My journey in the tech realm has been nothing short of exhilarating.<br><br>🚀 Equipped with a robust academic background, I wield a diverse skill set ranging from the bare-metal languages like C and C++, to the dynamic world of Web Development. My knowledge extends to Data Structures, DBMS, Python, Java, and the fundamental building blocks of React and APIs, giving me a competitive edge in the ever-evolving tech industry.<br><br>💡 During a four-month web developer internship at Abhyaz, I not only refined my skills but also gained invaluable real-world experience, enhancing my adaptability and problem-solving prowess.<br><br>🌟 Beyond the lines of code, I'm a music enthusiast. Catch me strumming the guitar or playing soulful tunes on the flute. When not in the musical realm, I'm diving into captivating movies or exploring the latest advancements in technology.<br><br>🌱 I'm passionate about applying my skills to real-world projects and challenges. I'm always eager to collaborate, learn, and elevate my professional growth. Let's connect and build amazing things together!
 
