@@ -7,7 +7,17 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me:
-👋 Hey there! I'm Yash Rai, a passionate and aspiring Computer Science and Engineering (CSE) B.Tech student at SR Group of Institutions, Jhansi. My journey in the tech realm has been nothing short of exhilarating.<br><br>🚀 Equipped with a robust academic background, I wield a diverse skill set ranging from the bare-metal languages like C and C++, to the dynamic world of Web Development. My knowledge extends to Data Structures, DBMS, Python, Java, and the fundamental building blocks of React and APIs, giving me a competitive edge in the ever-evolving tech industry.<br><br>💡 During a four-month web developer internship at Abhyaz, I not only refined my skills but also gained invaluable real-world experience, enhancing my adaptability and problem-solving prowess.<br><br>🌟 Beyond the lines of code, I'm a music enthusiast. Catch me strumming the guitar or playing soulful tunes on the flute. When not in the musical realm, I'm diving into captivating movies or exploring the latest advancements in technology.<br><br>🌱 I'm passionate about applying my skills to real-world projects and challenges. I'm always eager to collaborate, learn, and elevate my professional growth. Let's connect and build amazing things together!
+👨‍💻 Enthusiastic CSE B.Tech student at SR Group of Institutions, Jhansi.
+
+🛠️ Skilled in C, C++, Web Development, Data Structures, DBMS, Python, Java, React, and APIs.
+
+💼 Experienced in a 4-month web developer internship at Abhyaz, enhancing adaptability and problem-solving abilities.
+
+🎵 Music lover: Guitar, flute. Movie buff. Tech explorer.
+
+🌱 Eager to apply tech skills, collaborate, and grow professionally. Let's connect and innovate! 🚀
+
+📧 Contact: yashrai1224@gmail.com
 
 
 ## 🌐 Socials:
