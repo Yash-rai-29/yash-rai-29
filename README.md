@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yash Rai</h1>
 <h3 align="center">Software Engineer | Backend • Data Engineering • AI Systems</h3>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
@@ -63,9 +62,23 @@ I'm a **Software Engineer** with **2+ years of experience** building **productio
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yash-rai-29&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yash-rai-29&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-rai-29&theme=midnight-purple&hide_border=false&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yash-rai-29&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yash-rai-29&theme=midnight-purple&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-rai-29&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" 
+    height="150"
+  />
+</p>
 
 ---
 
